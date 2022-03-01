@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A meet help, or, A wedding sermon preached at New-Castle in New-England, June 19th  1694, at the marriage of Mr. John Clark, and Mrs. Elizabeth Woodbridge / by Mr. John Cotton.</title>
+            <author>Cotton, John, 1658-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08841</idno>
+            <idno type="STC">Wing C6473A</idno>
+            <idno type="STC">ESTC W38820</idno>
+            <idno type="EEBO-CITATION">62369130</idno>
+            <idno type="OCLC">ocm 62369130</idno>
+            <idno type="VID">187853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187853)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A meet help, or, A wedding sermon preached at New-Castle in New-England, June 19th  1694, at the marriage of Mr. John Clark, and Mrs. Elizabeth Woodbridge / by Mr. John Cotton.</title>
+                  <author>Cotton, John, 1658-1710.</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Green and J. Allen, sold by Michael Perry,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clark, John.</term>
+               <term>Woodbridge, Elizabeth, 1673-1729.</term>
+               <term>Wedding sermons --  Massachusetts --  Early works to 1800.</term>
+               <term>Sermons --  Massachusetts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187853:1"/>
+            <pb facs="tcp:187853:1"/>
+            <pb facs="tcp:187853:2"/>
+            <pb facs="tcp:187853:2" rendition="simple:additions"/>
+            <p>
+               <hi>A Meet help.</hi> OR, A Wedding SERMON, Preached at <hi>New-Caſtle</hi> in <hi>New-England, June</hi> 19th. 1694.</p>
+            <p>At the Marriage of Mr. John Clark, AND Mrs. Elizabeth Woodbridge.</p>
+            <p>By Mr. <hi>Iohn Cotton,</hi> Paſtor of the Church at <hi>Hampton.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Heb. 13.4.</hi>
+               </bibl> Marriage is honourable in all, and the bed undefiled: but Whoremongers and Adulterers God will Judge.</q>
+            <q>
+               <bibl>
+                  <hi>Hoſ. 3.3.</hi>
+               </bibl> Thou ſhalt not play the Harlot, and thou ſhalt not be for another man, ſo will I alſo be for thee.</q>
+            <q>
+               <bibl>
+                  <hi>Cant. 2.16.</hi>
+               </bibl> My beloved is mine, and I am his.</q>
+            <p>
+               <hi>Boſton,</hi> Printed by <hi>B. Green,</hi> and <hi>J. Allen.</hi> Sold by <hi>Michael Perry,</hi> at his Shop over againſt the Town houſe, 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:187853:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:187853:3"/>
+            <head>To the Candid READER.</head>
+            <p>THis ſmall Tract had come to light before now, had it not been for the averſeneſs of the Author thereunto. The Audi<g ref="char:EOLhyphen"/>tory to whom it was Preacht, were ſo ſatisfied and pleaſed with the Diſcourſe that they did generally in the ſeaſon of it, deſire it might be made publick; the unwillingneſs of the Preach<g ref="char:EOLhyphen"/>er (whoſe deſign was wholly to have ſtifled it) hath hitherto hindred and delayed it; but be<g ref="char:EOLhyphen"/>ing overcome at laſt, others that got the peruſal of it, do judge that whether in ſeaſon, or out of ſeaſon, it may be uſeful. Marriage is one of the moſt conſiderable Changes that befal the Children of men in this World; and though it be ſo, that ſome ſpend a conſiderable age, and live and dye without taſting the ſweets of it; whether frighted by an apprehenſion of imagi<g ref="char:EOLhyphen"/>ned and inſuperable ſorrows attending it, or
+<pb n="4" facs="tcp:187853:4"/>from a natural frigidity, or a moroſe unſociable temper, or on religious grounds or pretences, or perhaps on other reaſons not mentioned, muſt be left to themſelves; but the generality of the Children of men do ſo far anſwer the Law of their Creation, and the end of this Inſtitution that they do incline and deſire, and in time act<g ref="char:EOLhyphen"/>ually enter on this Change, without which the World would ceaſe; and we cannot eaſily ſee, how the great things that God hath yet to do on the Stage of the World, would be accom<g ref="char:EOLhyphen"/>pliſhed. Marriage then being of ſuch general concernment to the Sons and Daughters of <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and to the Church of God; it is good for every one to be adviſed about it, and when they engage in it, ſo to do it as may beſt an<g ref="char:EOLhyphen"/>ſwer all its ends; and wiſdom in this as in all other weighty Concerns, muſt be ſought of him <hi>who giveth liberally, and upbraideth not:</hi> it being God alone that can guide into ways that are plain and eaſy, or ſweeten any Change or Condition to us, and render that State that would be otherwiſe thorny and perplexing to us, to be comfortable and pleaſant. Hence its requiſite, that not only his preſence be ſought, but his Oracles conſulted; which ſome neglect<g ref="char:EOLhyphen"/>ing, and driving on furiouſly, having their heat kindled by ſome ſecular Intereſt, have run them<g ref="char:EOLhyphen"/>ſelves into ſuch intanglements and intricacies, that they could afterward find it eaſier to be<g ref="char:EOLhyphen"/>wail
+<pb n="5" facs="tcp:187853:4"/>themſelves in; then extricate themſelves out of. The Sac<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> its Counſels in reference to this Affair; the Apoſtle ſpends a large Chapter upon it. 1 <hi>Cor.</hi> 7. and though he gives liberty to the Unmarried to pitch on whom they will, yet he limits it with that re<g ref="char:EOLhyphen"/>ſtriction, <hi>only in the Lord,</hi> which ſome not obſer<g ref="char:EOLhyphen"/>ving, it may be ſaid of their Matches, as God ſometimes ſpeaks of <hi>Iſraels</hi> Kings. Hoſ. 4 8. <hi>They have ſet up Kings, but not by me, they have made Princes, and I knew it not;</hi> on which account it was ſometimes ſpoken in reference to one of them: <hi>That he gave him in his anger, and took him away in his wrath</hi> This is enough to ſhew us, that Truths of this nature, are ſometimes to be managed, opened, unfolded and applyed by the Miniſters of the Goſpel; and the Enſuing Sermon being at ſuch a time, was pertinent to the purpoſe in hand, and a word in ſeaſon; and is thereupon commended to thy peruſal, with ſincere wiſhes, it may prove to thy benefit.</p>
+            <closer>Per Auditorem.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:187853:5" rendition="simple:additions"/>
+            <pb n="7" facs="tcp:187853:5"/>
+            <head>
+               <hi>A Meet Help.</hi> Or, A Wedding SERMON.</head>
+            <p>WE are invited this day (to a Wedding Supper, I can't ſay) but to a Wedding Sermon. Marriage as well as meat is ſanctified by the Word of God and Prayer. 1 <hi>Tim.</hi> 4.5. It is the worſt Clandeſtine Marriage ſaith one<note n="*" place="margin">Fuller</note> when God is not invited to it; when he is by Prayer and the Sanctification of his Word ſought with it, as it is nobly Pub<g ref="char:EOLhyphen"/>lick, ſo may we expect it will be laſtingly proſ<g ref="char:EOLhyphen"/>perous. That Word of the Lord which may he bleſs to the Sanctification of this, and ſo rendring it, you may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Written,</p>
+            <q>
+               <pb n="8" facs="tcp:187853:6"/>
+               <bibl>
+                  <hi>Geneſis II. 18.</hi>
+               </bibl> And the Lord God ſaid, it is not good that the man ſhould be alone; I will make him an help meet for him.</q>
+            <p>VVHEN the Maker of the World had finiſhed his glorious work<g ref="char:EOLhyphen"/>manſhip, the Heavens and the Earth, and all the Hoſt of them, and had aſſign'd man, who was as an Epi<g ref="char:EOLunhyphen"/>tome or Compendium of the Creation (a <hi>Mi<g ref="char:EOLunhyphen"/>crocoſm</hi> in this <hi>Macrocoſm</hi> a leſſer World in thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greater) a convenient domicil or habitation, to<g ref="char:EOLunhyphen"/>gether with a Calling, in a Garden of his own planting; He takes notice yet of ſomething wan<g ref="char:EOLunhyphen"/>ting, at leaſt for mans conveniency and comfort and reſolves upon the providing of it. Indee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Junius, Piſcator</hi> and <hi>Diadoti</hi> apprehend this done before man had his place aſſign'd him in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Garden; and I do grant it was on the Sixth Day, and before God took a Survey of his whole work, and pronounced thereon, <hi>That it was ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Good:</hi> Though I do at preſent concur with <hi>Pa<g ref="char:EOLunhyphen"/>reus,</hi> that it was after he was brought into the Garden. Then is the want of a Meet Help moſt ſeen, when a man is fix't to any certai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place, or in any particular Calling, and it is goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at ſuch a time to look out for that which Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not ſee good that man ſhould be without
+<pb n="9" facs="tcp:187853:6"/>God Himſelf look't out for the firſt man, as good Parents ſometimes do for their Children, and ſo he does indeed for all ever ſince, <hi>Matches are made in Heaven,</hi> and God brings to every Man his Wife that has one, <hi>verſe</hi> 22. He conſults the good of man more than man doth his own; un<g ref="char:EOLhyphen"/>grateful he, if he doth not conſult Gods Glory. God conſults his pleaſure, as well as his profit; ungrateful he, if he content not himſelf in the bounds that God hath ſet him; and if he con<g ref="char:EOLhyphen"/>tent not himſelf <hi>to drink waters out of his own Ciſtern.</hi> Prov. 5.15. There cannot an inconveni<g ref="char:EOLhyphen"/>ency attend mans condition but God ſpies it ſooner then man himſelf: it was not <hi>Adam</hi> ſaid, <hi>It is not good that man ſhould be alone,</hi> but it was the <hi>LORD GOD</hi> ſaid it: nor is man more ready to remedy his own inconveniency then God is, <hi>I will make him an help meet for him,</hi> ſaith God. It is great folly, unbelief, and ingratitude for man not to reſt contented with God's care of &amp; proviſion for him, and diſpoſal of all his con<g ref="char:EOLhyphen"/>cerns: all a mans own care is inopportune and inſignificant without it, &amp; miſplac'd where that is diſtruſted. The Apoſtle teacheth better, when he ſaith, <hi>Caſting all your care upon him for he careth for you.</hi> 1 Pet. 5.7. Though I find man imme<g ref="char:EOLhyphen"/>diately upon his Creation, and in innocency in the Garden of <hi>Eden;</hi> I may not now ſtand to pick and preſent you with the many and various roſes and flowers I find him ſurrounded with, for
+<pb n="10" facs="tcp:187853:7"/>the time I am confined to, will permit me to gather no more than I can haſtily catch at, growing upon theſe two Stalks, <hi>ſcil. The Obſerva<g ref="char:EOLhyphen"/>tion that the Lord God, mans Maker, makes of the man he had placed in the Garden, and his reſolution thereupon;</hi> (for of theſe two parts do the words we have read conſiſt) the Obſervation he makes is, <hi>That it is not good that man ſhould be alone,</hi> his reſolution thereupon is, I will make him an help meet for him. I ſay firſt, the Obſervation he makes, is, that <hi>it is not good the man ſhould be a<g ref="char:EOLhyphen"/>lone,</hi> and therein he doth recommend it as an Obſervation unto us, <hi>Scil.</hi>
+            </p>
+            <p>Obſ. <hi>That it is not good that the man ſhould be alone:</hi> This is what the Lord God hath ſaid, and we may ſafely ſay it after him; <hi>and the Lord God ſaid, ſaid,</hi> whether in ſo many words and ſyllables, or in the mind of man, or reveal<g ref="char:EOLhyphen"/>ing it, by an Angel, or any other way ſaith <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi> there is no need to ſeek, but rather that we underſtand what he did ſay; (be ſure it ſerves to repreſent the Counſel of God in this matter (the ſame which he took in the Creating of man) or as acting by Counſel, and manifeſting i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the execution thereof.)</p>
+            <p>Theſe are then the queſtions proper here to be enquired into: <hi>Scil.</hi>
+            </p>
+            <list>
+               <item>1. In what ſenſe we are to underſtand the phraſe <hi>alone?</hi>
+               </item>
+               <item>2. In what reſpect it is not good that the man ſhould ſo be?</item>
+            </list>
+            <pb n="11" facs="tcp:187853:7"/>
+            <p>Queſt. 1. <hi>In what ſenſe we are to understand the phraſe alone?</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> Not of any ſolitude or ſolitarineſs; for in ſome ſenſe it is good for a man to be alone, and at ſome times, as when he goes to meditate, <hi>&amp;c.</hi> and at ſuch a time as the Philoſopher ſaid, he is never leſs alone, then when he is alone; but by <hi>alone</hi> here we are to underſtand, without a Compeer, Conſort, Companion as other Crea<g ref="char:EOLhyphen"/>tures had, without a woman, without a Wife, without a Meet Help, which it is therefore add<g ref="char:EOLhyphen"/>ed, ſhall be prepared: It is not good that the man ſhould be alone in this reſpect; which is to be underſtood again of the ſpecies (of mankind) not of Individuals, for it is granted of ſome In<g ref="char:EOLhyphen"/>dividuals, it is good of them to be alone, even in this reſpect, as of ſuch as them mentioned. <hi>Mat.</hi> 19.12. and ſo ſuch as are of an unſociable nature, are like brambles and briars, will tare and afflict all that come near them; and ſo likewiſe at ſome times, as in times of perſecuti<g ref="char:EOLhyphen"/>on it is good for a man not to touch a woman, ſaith the Apoſtle <hi>Paul.</hi> 1 Cor. 7.1. but then he ſpeaks only of that particular time, as he explains himſelf, <hi>v.</hi> 26. I ſuppoſe therefore that this is good for the <hi>preſent diſtreſs;</hi> and there may be yet other things that may render it convenient to this or the other individual to be alone, or for the preſent time, but in general, and for man<g ref="char:EOLhyphen"/>kind it is not good. That is then the Second Enquiry, <hi>Scil.</hi>
+            </p>
+            <pb n="12" facs="tcp:187853:8"/>
+            <p>Queſt. 2. <hi>In what reſpect it is not good that the man ſhould be alone?</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> 1. In that it doth not anſwer the end in mans Creation. As,</p>
+            <list>
+               <item>1. The propagation of mankind; had man been or continued alone, how ſhould mankind in a natural way, and regularly have been pro<g ref="char:EOLhyphen"/>pagated? and ſhould every man now do ſo, what would become of the whole world in one Age? God could indeed have Created at firſt ſuch a number of men as he did of Angels, but it was Gods pleaſure to make of one blood, all Nations of men to dwell on all the face of the Earth. <hi>Acts</hi> 17.26. and in order to the obtain<g ref="char:EOLhyphen"/>ing of that end, it was not good that man ſhould be alone.</item>
+               <item>2. His gathering a Church out of mankind, that was Gods end we ſee, in that it is done, but that could not have been, had mankind not ex<g ref="char:EOLhyphen"/>tended beyond one individual.</item>
+               <item>3. The Glory of his Mercy and Juſtice in Sending his Son in the Fleſh, born of a woman which would never have been, had the man been alone, or had there been no woman; In theſe reſpects it don't anſwer Gods end in mans Creation, and therefore is not good that the man ſhould be alone.</item>
+            </list>
+            <p n="2">2. It don't anſwer mans immediate end, nor indeed any end of man; it is not good, <hi>i. e.</hi> neither <hi>bonum, jucundum,</hi> or <hi>utile,</hi> it is neither
+<pb n="13" facs="tcp:187853:8"/>
+               <hi>pleaſant</hi> nor <hi>profitable,</hi> nor indeed <hi>honourable.</hi> The <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od that man enjoyes in this world (not to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eak of that which he doth, which is <hi>bonum <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>estum,</hi> the good of honeſty) is either <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eaſure, profit or honour, but for man to be a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e doth not make for either of theſe.</p>
+            <list>
+               <item>1. <hi>It doth not make for his pleaſure;</hi> ſolitarineſs <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> very uncomfortable the Wife man tells us, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cleſ.</hi> 4.9, 10, 11, 12. Man is a ſociable Creature, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d to ſuch an one a ſolitary life, though aboun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng with all other good things, would be tedi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s and unpleaſant; it muſt needs be ſo to him <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o is alone in a wide world, and has none of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kind with him, though the Creatures ſhould <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſubjected to his dominion.</item>
+               <item>2. Nor doth it make for his profit; profit is <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mmonly aim'd at in marching as well as plea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re, and there are more ways then one where<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> it is obtained, it doth not then make there<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re to lead a ſingle life; you know the proverb, <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at he that would thrive, muſt firſt ask his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ifes leave, and if ſo, he muſt have one to ask; <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> doth not beſure make for the profit of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, if by accident it ſhould to the profit of this <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dividual; as that the man ſhould be alone <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth not make for his profit, ſo neither</item>
+               <item>3. Doth it make for his honour; Marriage is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onourable in all, it is ſaid, <hi>Heb.</hi> 13 4. that doth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot then make for his honour which is contrary <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o it; Thus we ſee in ſhort then, that for man
+<pb n="14" facs="tcp:187853:9"/>to be alone in the ſence ſaid, doth neither anſwer Gods end, nor mans, and therefore it is not good. I might have been larger in ſhewing it, but con<g ref="char:EOLhyphen"/>ſidering the Occaſion, I ſhall content my ſelf with what has been ſaid, and proceed to the Uſe we ſhould make of it.</item>
+            </list>
+            <p>
+               <hi>USE</hi> 1. <hi>Is it not good that the man ſhould be a lone, or without the woman?</hi> this condemns <hi>Mi<g ref="char:EOLhyphen"/>ſogyniſts,</hi> ſuch as cry out againſt all women, hate woman kind (if there be ſuch among mankind) are bitter, and full of ſpiteful invectives againſt them; they hate and inveigh againſt them, whom it is not good that man ſhould be without, and indeed that they are without them is com<g ref="char:EOLhyphen"/>monly the reaſon why any do; their quarrel with them is, that which the <hi>Fox</hi> in the fable had with the <hi>Grapes, they are out of their reach:</hi> Women are Creatures without which there is no comfor<g ref="char:EOLhyphen"/>table Living for man: it is true of them what is wont to be ſaid of Governments, <hi>That bad ones are better than none:</hi> They are a ſort of Blaſphe<g ref="char:EOLhyphen"/>mers then who diſpiſe and decry them, and call them <hi>a neceſſary Evil,</hi> for they are <hi>a neceſſary Good;</hi> ſuch as it was not good that man ſhould be without. Prov. 18.22. <hi>Whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> findeth a Wif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> findeth a good thing, and obtaineth favour of the Lord<g ref="char:punc">▪</g>
+               </hi> And they are ſpoken of <hi>as the deſire of the eye</hi> Ezek. 24.16, 21. It is with a more than <hi>Fem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nine</hi> impotency, that any declaim againſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole Sex for the infirmity of ſome, and it may
+<pb n="15" facs="tcp:187853:9"/>be without that cauſe either: they ſhould all remember, that they are Sons of Women, that their Mothers were Women, and that otherwiſe they had never been Men; Yea, that the Lord JESUS CHRIST our Bleſſed Saviour, was born of a Woman, and <hi>that Bleſsed was the Womb that bare him and the Paps which gave him ſuck.</hi> Luk. 11.27. And that the Apoſtle <hi>Paul</hi> who was not for the cumbrances that attended a Married E<g ref="char:EOLhyphen"/>ſtate in times of Perſecution, yet calls <hi>Marriage honourable in all. Heb.</hi> 13.4. And another Apoſtle, <hi>would have honour given unto Women as the weaker veſſels, and as being heirs together of the Grace of Life.</hi> 1 Pet. 3.7. Nay the <hi>Hebrews</hi> err on this extream, while they ſay, <hi>There is nothing good but a Woman, and that he who lives without a Wife, re<g ref="char:EOLhyphen"/>mains without good</hi> &amp;c. They think hither looks that of <hi>Solomon,</hi> in Prov. 18.22.</p>
+            <p n="2">2. This Condemns them who condemn or contemn Marriage; it condemns them who live a <hi>Monkiſh</hi> life, ſo much in requeſt among the Pa<g ref="char:EOLhyphen"/>piſts; and it condemns that Popiſh conceit of the Excellency of Virginity, as if it were more per<g ref="char:EOLhyphen"/>fect and compleat than a Married State: whence many among them are devoted to it, as in their <hi>Nunneries &amp;c.</hi> God was of another mind, <hi>It is not good,</hi> ſaid God; they are differently minded then it ſeems from their Maker, the All wiſe God; they don't ſay after him, who thus practically ſay, <hi>It is good for man to be alone.</hi> How <hi>Monks</hi>
+               <pb n="16" facs="tcp:187853:10"/>who profeſſedly live alone (and thence have their name <hi>Monks</hi>) will acquit themſelves of be<g ref="char:EOLhyphen"/>ing of a different Judgment, in this matter from their Maker, I do not preſently ſee. I remem<g ref="char:EOLhyphen"/>ber in Church <hi>Hiſtory,</hi> I have read of one who immediately upon Marriage, without ever ap<g ref="char:EOLhyphen"/>proaching the <hi>Nuptial Bed,</hi> indented with the <hi>Bride,</hi> that by mutual conſent they might both live ſuch a life, &amp; according did ſequeſtring themſelves according to the cuſtom of thoſe times, from the reſt of mankind, and afterwards from one another too, in their retired Cells, giving themſelves up to a Contemplative life; and this is recorded as an Inſtance of no little or ordinary Vertue; but I muſt be pardoned in it, if I can account it no other than an affort of blind zeal, for they are the dictates of a blind mind they follow therein, and not of that Holy Spirit, which ſaith, <hi>It is not good that man ſhould be alone:</hi> Nor can I from the ſame principle be an advocate for ſuch who lead a ſingle Life meerly through Mo<g ref="char:EOLhyphen"/>roſeneſs or Averſation to humane Society, or where there is no ſufficient lett to a double one, and the Maturity of years call for it. Indeed where there is a ſufficient cauſe, there is nothing to be ſaid againſt it, though what is ſo, to be duly conſidered: And though <hi>Batchelours</hi> as Mr. <hi>Fuller</hi> ſaith of them in his holy and prophane State, may be the ſtrongeſt Stake in the Hedge of the Common wealth, and the beſt work, and
+<pb n="17" facs="tcp:187853:10"/>the greateſt merit, for the Publick have ſome<g ref="char:EOLhyphen"/>times proceeded from ſuch, while both in affecti<g ref="char:EOLhyphen"/>on and means they have Married and Endowed the publick; yet were there no other Stakes in the Hedge, it would ſoon fall to the ground, for when theſe are pluck't up what would uphold the Hedge? They do nothing honeſtly towards the worlds continuance, encreaſing God's Sub<g ref="char:EOLhyphen"/>jects or the Kings; and they come under the Condemnation of that Vulgar Sentence, <hi>Naſcitur indignus, per quem non naſcitur alter,</hi> that they are unworthy to Live themſelves who are not in<g ref="char:EOLhyphen"/>ſtrumental of giving life to others.</p>
+            <p n="3">3. They do well who in the ſeaſon of it ſeek a ſuitable Companion, and ſo do they who ac<g ref="char:EOLhyphen"/>cept being ſuitably ſought to; both do well: they enter into an Eſtate, wherein there are more hands to labour, more wits to adviſe, more means to comfort one another; and otherwiſe to do good. They both do well, and there<g ref="char:EOLhyphen"/>fore ſhould not be diſcouraged in it: Parents ſhould not be too hard in giving their conſent, though the Match is not alwayes to their minds, they ſhould remember that they are made in Heaven, and that there is a Secret Providence inclining the Hearts of Perſons in this matter, which they ſhould be wary how they withſtand, leaſt they ſhould do as <hi>Sampſons</hi> Parents did, who for a while oppoſed his motion of that nature, <hi>Not knowing that it was of the Lord.</hi> Judg. 14.3, 4<g ref="char:punc">▪</g>
+               <pb n="18" facs="tcp:187853:11"/>Having faithfully and diſcreetly adviſed their Children, they ſhould not too Tyranically im<g ref="char:EOLhyphen"/>poſe upon them. We know by long Experience that forc'd Matches any way ſeldome do well: the Perſons ſought too ſhould not be too haſty in their rejections, even there where they don't ſee reaſon preſently to accept; nor indeed is it prudence to be too haſty any wayes in that to which deliberation is called for. It is often ſeen in the World, that they who are forward to reject the Marchantable are at laſt glad of he refuſe. They ſhould not be too haſty, I ſay, in rejecting. <hi>He that giveth his Virgin in Marriage,</hi> ſaith the Apoſtle, <hi>doth well.</hi> 1 Cor. 7.38. And ſo doth She who gives her ſelf with her Parents leave; and though he adds, <hi>but he that giveth her not in Marriage doth better,</hi> he only means in ſome reſpects, and at the preſent juncture, as he ſaid before <hi>for the preſent diſtreſs,</hi> and to avoid trouble, as he ſaith, verſe 28. <hi>If a Virgin marry ſhe hath not ſinned, nevertheleſs ſuch ſhall have trouble in the fleſh,</hi> and that ſo ſhe might have liberty for things of a Spiritual nature, <hi>verſe</hi> 34. But in other reſpects and according to the common order appointed by God, ſhe doth well. They have done well both in ſeeking and accepting, who are the Occaſion of our Aſſembling here at this time; and it is with great Approbation, I ſuppoſe, on all hands that we meet to Ce<g ref="char:EOLhyphen"/>lebrate it publickly: That they may go on
+<pb n="19" facs="tcp:187853:11"/>to do well, let it be our united Prayers.</p>
+            <p n="4">4. Let not them who are not alone, but united in Wedlock, be as if they were alone; though in ſome reſpects I grant they ſhould be ſo, and that according to Apoſtolical pre<g ref="char:EOLhyphen"/>cept; <hi>they that have Wives, ſhould be as if they had none.</hi> 1 <hi>Cor.</hi> 7.27. <hi>i. e.</hi> in reſpect of their mind<g ref="char:EOLhyphen"/>ing Spiritual and Heavenly things: but let them not be as if they were alone in reſpect of their duty to each other; let not the Husband be ſo in neglecting the duty of the Husband, nor the Wife in neglecting the duty of the Wife: let not the Wife be ſo by the Husbands neglect, nor the Husband by the Wives: let them not be un<g ref="char:EOLhyphen"/>ſociable after they have Covenanted and Vowed a conſortſhip, and ſolemnly plighted their Troth to each other: better be alone in reality than live ſo, or as if they were ſo, after they are wed<g ref="char:EOLhyphen"/>ded. I here add, let their Company with each other, be better than their being alone: Solitari<g ref="char:EOLhyphen"/>neſs is better than ſome Company: Yoke-fel<g ref="char:EOLhyphen"/>lows ſhould endeavour to endear one another by their mutual ſweet Society. A Miniſter by vertue of his Calling indeed is to be much alone, if he is ſo in his Study, he ſhould not be ſo when he comes out of it too; and he ſhould alwayes find that of his Companion to be <hi>inſtar Omnium,</hi> in the room of and beyond all other. To theſe who are now to be put together, I pray they may never be alone more but when
+<pb n="20" facs="tcp:187853:12"/>occaſionally aſunder, they may yet be preſent with each other in Spirit and Effigie, that God may be alwayes graciouſly preſent with them both, and that they may draw out the thread of their lives with an equal extent here, and inhe<g ref="char:EOLhyphen"/>rit life eternal together in the other world. <hi>It is not good that the man ſhould be alone.</hi> We come now in the Second place to the reſolution here<g ref="char:EOLhyphen"/>upon. <hi>I will make him an help meet for him:</hi> which doth reſolve us in what God did, that he did make ſuch an help; and in that as an Obſervation.</p>
+            <p>Obſer. <hi>That God did make the Woman to be an help for the man.</hi> So did <hi>Adam</hi> call the perſon God brought to him, to be a meet help: con<g ref="char:EOLhyphen"/>text <hi>verſe</hi> 23. I ſhall ſpeak to this in a very few words, as few as it can be ſhown in: in what reſpect the Woman is an help meet for the man, and hint the uſe that is to be made of it.</p>
+            <p>The Woman is or ſhould be an help meet for the man in theſe following reſpects. <hi>Scil.</hi>
+            </p>
+            <p>As She anſwers natural, oeconomical and Theological ends; and how ſhe doth each, I ſhall ſhow preſently: but I muſt firſt take notice, that the word here rendred <hi>Meet,</hi> is in the Origi<g ref="char:EOLhyphen"/>nal, <hi>As before him. Jerom</hi> reads it, <hi>Lake to him:</hi> the Seventy, <hi>According to him: as before him. i. e.</hi> In his Image of his own kind, like to him, which ſhould be as it were, a Second ſelf, Graceful in his eyes; grateful to him, alwayes as it were
+<pb n="21" facs="tcp:187853:12"/>in his ſight, and aſſiſtant in the work of his life; lifting as it were over againſt him, as the word is rendred, <hi>over against him.</hi> Joſh. 5.13. So that it iſſues in what it is here rendred, <hi>Meet for him.</hi> Brutes are an help to man for many ends, whence they are called <hi>Jumenta,</hi> but they are not a meet help in this ſence; they don't a<g ref="char:EOLhyphen"/>gree with him <hi>ſpecie,</hi> they be not aſſociated with him. <hi>&amp;c.</hi> The woman is made to be and is a meet help to man.</p>
+            <p n="1">1. As She anſwers natural ends, and ſo is,</p>
+            <p n="1">1. A moſt ſweet and intimate companion, and an entire friend; there is no ſtricter or ſweeter friendſhip than conjugal; as it was the firſt in the world, ſo it is moſt natural.</p>
+            <p n="2">2. Is helpful in the propagating of mankind. <hi>Ruth</hi> 4.11. <hi>She helps build up the Houſe.</hi>
+            </p>
+            <p n="2">2. As She anſwers oeconomical ends, and ſo is aſſiſtant in Family affairs, in the Government of the Houſe, ordering things within doors, eſ<g ref="char:EOLhyphen"/>pecially (for the houſe is her Center) and ſhe ſhould be an help as before him, <hi>ſhould be a keeper at home. Tit.</hi> 2.5. Not a raſh wrambler abroad: the Shell-fiſh is an <hi>Hierogliphick</hi> hereof, which carries her houſe on her head: like which there<g ref="char:EOLhyphen"/>fore the painter drew <hi>Venus.</hi> The woman ſhould keep at home, Educating of her Children. <hi>Prov.</hi> 1.8, 9. 1 <hi>Tim.</hi> 5.14. Keeping and improving what is got by the induſtry of the man. The wiſe man finds a glaſs wherein good Wives may ſee themſelves. <hi>Prov.</hi> 31.</p>
+            <p n="3">
+               <pb n="22" facs="tcp:187853:13"/>3. As She anſwers Theological or Divine ends.</p>
+            <p n="1">1. And ſo is an aſſiſtant to him in his Piety, and Honeſty, a promoter of that; the Apoſtle ſuppoſeth them <hi>Praying,</hi> yea &amp; <hi>Fasting</hi> together. 1 <hi>Cor.</hi> 7.5. 1 <hi>Pet.</hi> 3.7. So the man and woman, as one ſaith, are a <hi>Domeſtick Church.</hi> Indeed <hi>Julian</hi> the Apoſtate, Scoft at the Womans being a meet help in this reſpect, in that ſhe was the perſon that drew man into Sin, that ſeduced him: It is true, She being ſeduc'd her ſelf, ſe<g ref="char:EOLhyphen"/>duced him; but it doth not follow, but that She was given for another end, and often attains it, and the miſſing it then ſhould make Women the more wary for the future: And though the Apoſtle doth ſuppoſe them in a Married Eſtate, more involved in the cares of this life. 1 <hi>Cor.</hi> 7.32, 33, 34. Yet he ſuppoſeth them like<g ref="char:EOLhyphen"/>wiſe <hi>helpers forward of each other in Faith &amp; Love. verſe</hi> 16. &amp; 1 <hi>Pet.</hi> 3.1, 2.</p>
+            <p n="2">2. So an helper of his Infirmity, a remedy of unlawful Love; <hi>to avoid Fornication,</hi> ſaith the Apoſtle, <hi>Let every man have his own wife,</hi> &amp;c. 1 <hi>Cor.</hi> 7.2. <hi>So that Satan tempt not for incontinen<g ref="char:EOLhyphen"/>cy, verſe</hi> 5. The woman is a meet help as ſhe anſwers theſe ends.</p>
+            <p>
+               <hi>USE. Did God make her for this end?</hi> Hence firſt man needed her, and therefore now ſhould not deſpiſe her.</p>
+            <p n="2">
+               <pb n="23" facs="tcp:187853:13"/>2. She was made for man, and therefore ſhould not deſpiſe but honour him, and yield Subjection to him as her Head; the Apoſtle in<g ref="char:EOLhyphen"/>fers this from her being made <hi>for man out of man, after man,</hi> and yet falling before him. 1 <hi>Cor.</hi> 11.8, 9. 1 <hi>Tim.</hi> 2.12, 13, 14</p>
+            <p n="3">3. Hence of the more publick Service the man is, the greater helper is the woman called<g ref="char:punc">▪</g> to be, that becomes his Wife; And the more Service ſhe doth to God and her Generation, while ſhe doth the duty of her place, and is the more happy therein; a good encouragement to Marry good Miniſters, though they ſhould live but poorly, and not have their reward in this Life.</p>
+            <p n="4">4. Hence they who be not meet helps, do not anſwer their end; they who are an afflicti<g ref="char:EOLhyphen"/>on and ſcourge to man, pervert the Order of God, and nature, and of ſuch an one (ſaith <hi>Chryſoſtome</hi>) <hi>adjutorium Diaboli non viri</hi>
+            </p>
+            <p n="5">5. Hence man is to uſe her as a meet help, as a companion, not as a Servant, and ſhould a<g ref="char:EOLhyphen"/>gain be an help, and an head to her. <hi>Eph.</hi> 5.28.</p>
+            <p n="6">6. Hence men may ſee what Yoke fellows they are to chooſe, and what help to expect from them, and they who want may be encou<g ref="char:EOLhyphen"/>raged for to ſeek: <hi>Si qua voles apte nubere nub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pari,</hi> every good man won't ſuit every good woman, <hi>et e contra.</hi>
+            </p>
+            <p n="7">
+               <pb n="24" facs="tcp:187853:14"/>7. Let the woman be what ſhe was made for, a meet help, not an unmeet hindrance; that is the deſcription given of the woman in the Text, God might have ſaid, I will make a woman, or a wife, but he rather choſe this Periphraſis expreſſive of her Character, ſhow<g ref="char:EOLhyphen"/>ing what ſhe ſhould be to her Husband. And this is the bleſſing that I wiſh to the Bride, who now appears here, that ſhe may every way anſwer this Character: And to you Sir, who are now ſeeking a Title, or rather the Con<g ref="char:EOLhyphen"/>firmation of your Title in ſuch an one, that you may experience according to your deſires and expectation, and may acknowledge God in his Love hath brought her to you. I ſhall Commend you further to his Bleſſing, when that Office is done you, for which you are now come hither.</p>
+            <closer>Tibi Domine.</closer>
+            <pb facs="tcp:187853:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
